@@ -1,6 +1,6 @@
 # Unser Schulprojekt über das Client Hardening 
 
-Das Ziel des Projektes war es, einen Linux-Client so zu härten, dass es Angreifer möglichst schwer haben, diesen zu kompromittieren. In unserem Fall war das ein Laptop mit Debian 13.
+Das Ziel des Projektes war es, einen Linux-Client so zu härten, dass es Angreifer möglichst schwer haben, diesen zu kompromittieren. In unserem Fall war das ein Laptop mit Ubuntu 24.04 LTS.
 
 Wir hatten knapp eine Woche Zeit, dies umzusetzen und zu lernen, wie man damit umgeht.
 
